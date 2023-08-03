@@ -1,60 +1,148 @@
-schema: https://htr-united.github.io/schema/2023-06-27/schema.json
-title: HTRomance - Medieval French Manuscripts
-url: https://github.com/HTRomance-Project/medieval-french
 authors:
-  - name: Leroy
-    surname: "No\xE9"
-    roles:
-    - transcriber
-    orcid: 0000-0002-7843-5050
-  - name: Pinche
-    surname: Ariane
-    roles:
-    - project-manager
-    - quality-control
-    orcid: 0000-0001-7764-9690
-  - name: Jean-Baptiste
-    surname: Camps
-    roles:
-    - project-manager
-    orcid: 0000-0001-7764-9690
-  - name: Alix
-    surname: Chagué
-    orcid: 0000-0002-0136-4434
-    roles:
-      - project-manager
-  - name: Thibault
-    surname: Clérice
-    orcid: 0000-0003-1852-9204
-    roles:
-      - project-manager
-institutions: []
+- name: Leroy
+  orcid: 0000-0002-7843-5050
+  roles:
+  - transcriber
+  surname: Noé
+- name: Pinche
+  orcid: 0000-0001-7764-9690
+  roles:
+  - project-manager
+  - quality-control
+  surname: Ariane
+- name: Jean-Baptiste
+  orcid: 0000-0001-7764-9690
+  roles:
+  - project-manager
+  surname: Camps
+- name: Alix
+  orcid: 0000-0002-0136-4434
+  roles:
+  - project-manager
+  surname: Chagué
+- name: Thibault
+  orcid: 0000-0003-1852-9204
+  roles:
+  - project-manager
+  surname: Clérice
+automatically-aligned: false
+characters:
+  members:
+  - e
+  - i
+  - s
+  - a
+  - t
+  - n
+  - u
+  - o
+  - r
+  - l
+  - c
+  - m
+  - d
+  - p
+  - .
+  - f
+  - q
+  - g
+  - ̃
+  - z
+  - h
+  - ⁊
+  - b
+  - ̾
+  - y
+  - Q
+  - x
+  - S
+  - ͥ
+  - ':'
+  - E
+  - L
+  - ͣ
+  - C
+  - I
+  - A
+  - D
+  - M
+  - ꝯ
+  - ꝑ
+  - ꝰ
+  - R
+  - P
+  - T
+  - O
+  - N
+  - ᷑
+  - U
+  - B
+  - F
+  - ͤ
+  - k
+  - G
+  - K
+  - ','
+  - H
+  - ͦ
+  - ̌
+  - ᷤ
+  - '1'
+  - ⟦
+  - ⟧
+  - ÷
+  - ꝓ
+  - w
+  - '2'
+  - '-'
+  - '&'
+  - '9'
+  - '4'
+  - ̵
+  - 
+  - ẜ
+  - '0'
+  - ͭ
+  - ⁜
+  - ^
+  - ᷠ
+  - ͬ
+  - '6'
+  - '3'
+  - /
+  - ̧
+  - ᵈ
+  - Y
+  - ͨ
+  - "'"
+  - '5'
+  - Ʒ
+  mode: NFD
 description: >-
   Ground truth of Old French and Middle French manuscripts. Manuscripts vary in themes,
   period, etc. Most manuscript have at most 10 columns transcribed.
-project-name: HTRomance
-project-website: https://htromance-project.github.io
-language:
-  - fro
-production-software: eScriptorium + Kraken
-automatically-aligned: false
-script:
-  - iso: Latn
-script-type: only-manuscript
-time:
-  notBefore: '1200'
-  notAfter: '1499'
+format: Alto-XML
 hands:
   count: 1-per-folder
   precision: estimated
+institutions: []
+language:
+- fro
 license:
-  - name: CC-BY 4.0
-    url: https://creativecommons.org/licenses/by/4.0/
-format: Alto-XML
-volume:
-  - metric: lines
-    count: 1
-transcription-guidelines: >-
+- name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+production-software: eScriptorium + Kraken
+project-name: HTRomance
+project-website: https://htromance-project.github.io
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
+script:
+- iso: Latn
+script-type: only-manuscript
+time:
+  notAfter: '1499'
+  notBefore: '1200'
+title: HTRomance - Medieval French Manuscripts
+transcription-guidelines: >2-
 
   The transcription guidelines are described in a paper available on
   [HAL](https://hal-enc.archives-ouvertes.fr/hal-03828353) and published at the
@@ -63,3 +151,13 @@ transcription-guidelines: >-
   about output (mainly the [Generic CREMMA Model for Medieval Manuscripts (Latin
   and Old French)](https://zenodo.org/record/7234166#.Y7f69afMJhE) for
   [Kraken](https://kraken.re))
+url: https://github.com/HTRomance-Project/medieval-french
+volume:
+- count: 80808
+  metric: characters
+- count: 48
+  metric: files
+- count: 2823
+  metric: lines
+- count: 269
+  metric: regions
