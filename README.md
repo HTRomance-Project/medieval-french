@@ -95,5 +95,6 @@ url = {https://htromance-project.github.io/}
 
 ## Infrastructure
 
-This project was produced through the [CREMMA infrastructure](https://www.dim-map.fr/projets-soutenus/cremma/).
+This project relied on the [CREMMA infrastructure](https://www.dim-map.fr/projets-soutenus/cremma/).
+
 
