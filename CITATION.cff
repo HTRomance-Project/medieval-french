@@ -17,6 +17,7 @@ authors:
     orcid: https://orcid.org/0000-0002-7843-5050
   - given-names: Jean-Baptiste
     family-names: Camps
+    orcid: https://orcid.org/0000-0003-0385-7037
   - given-names: Thibault
     family-names: Clérice
     email: thibault.clerice@inria.fr
@@ -25,7 +26,7 @@ authors:
   - given-names: 'Alix'
     family-names: Chagué
     orcid: 'https://orcid.org/0000-0002-0136-4434'
-    affiliation: 'Inria, Université de Montréal'
+    affiliation: 'ALMAnaCH, INRIA; Université de Montréal'
     email: alix.chague@inria.fr
 repository-code: 'https://github.com/HTRomance-Project/middle-ages-in-spain'
 keywords:
