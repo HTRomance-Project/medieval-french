@@ -1,4 +1,5 @@
-HTRomance: Corpus Medieval French
+HTRomance, Medieval French corpus of ground-truth for Handwritten Text Recognition
+  and Layout Segmentation
 =====================
 ![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
 
@@ -9,6 +10,9 @@ HTRomance: Corpus Medieval French
 This ground-truth dataset has been carefully built around the idea of having generic data for building a strong and reliable model for HTR of Latin manuscripts. Each manuscript should have around 10 columns (5 bi-columns pages or 10 pages of single column).
 
 Data follow the Segmonto guidelines.
+
+> [!NOTE]
+> The repository contains two XML files per image. The ones suffixed with `.chocomufin.xml` are normalized in order to be compliant with other datasets following the same guidelines. The others are more specific to this repository. We recommend using the normalized documents.
 
 ## Credits
 
