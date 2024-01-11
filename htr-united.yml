@@ -31,92 +31,100 @@ characters:
   - e
   - i
   - s
-  - t
   - a
+  - t
   - n
+  - r
   - u
   - o
-  - r
   - l
   - c
   - m
   - d
   - p
   - .
-  - q
-  - f
-  - g
   - ̃
+  - f
+  - q
+  - g
   - ⁊
   - h
   - b
   - z
   - ̾
-  - y
   - Q
-  - x
   - ͥ
-  - ͣ
-  - ꝯ
-  - ꝑ
   - S
-  - E
+  - x
   - C
-  - ':'
+  - ꝑ
+  - y
   - L
-  - k
+  - ꝯ
+  - ͣ
+  - E
   - D
-  - I
   - A
-  - M
+  - I
   - ꝰ
-  - ᷑
-  - P
-  - R
-  - T
-  - O
-  - ¶
-  - ᷤ
+  - M
+  - k
+  - ':'
   - N
-  - B
+  - T
+  - P
+  - ᷑
+  - R
+  - O
   - U
+  - ᷤ
   - F
+  - ¶
+  - B
   - ͤ
   - G
   - K
-  - ','
   - H
-  - ⟦
-  - ⟧
   - w
   - ͦ
-  - ꝓ
-  - ̌
-  - '1'
-  - '2'
-  - ẜ
-  - '-'
   - ÷
+  - ','
+  - ⟦
+  - ⟧
+  - ꝓ
+  - '-'
   - '0'
+  - '2'
+  - '1'
   - ̵
-  - '4'
-  - '&'
+  - ̌
+  - ẜ
   - '9'
-  - 
+  - '5'
+  - '4'
   - '3'
+  - '7'
+  - '6'
+  - '&'
+  - 
+  - ͬ
   - ˣ
+  - Y
   - ͭ
   - ⁜
+  - ͫ
   - /
-  - '6'
   - ᷠ
-  - ͬ
-  - ^
-  - '7'
-  - Y
-  - ͨ
   - "'"
-  - '5'
+  - '8'
+  - ^
+  - 
+  - ͨ
+  - ́
+  - ͧ
+  - ̂
+  - X
+  - ł
   - ̧
   - ᵈ
   - ꝙ
@@ -158,11 +166,11 @@ transcription-guidelines: >2-
   [Kraken](https://kraken.re))
 url: https://github.com/HTRomance-Project/medieval-french
 volume:
-- count: 120310
+- count: 196314
   metric: characters
-- count: 65
+- count: 96
   metric: files
-- count: 4315
+- count: 7372
   metric: lines
-- count: 390
+- count: 552
   metric: regions
