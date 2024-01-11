@@ -31,8 +31,8 @@ characters:
   - e
   - i
   - s
-  - a
   - t
+  - a
   - n
   - u
   - o
@@ -43,79 +43,83 @@ characters:
   - d
   - p
   - .
-  - f
   - q
+  - f
   - g
   - ̃
-  - z
-  - h
   - ⁊
+  - h
   - b
+  - z
   - ̾
   - y
   - Q
   - x
-  - S
   - ͥ
-  - ':'
-  - E
-  - L
   - ͣ
-  - C
-  - I
-  - A
-  - D
-  - M
   - ꝯ
   - ꝑ
+  - S
+  - E
+  - C
+  - ':'
+  - L
+  - k
+  - D
+  - I
+  - A
+  - M
   - ꝰ
-  - R
+  - ᷑
   - P
+  - R
   - T
   - O
+  - ¶
+  - ᷤ
   - N
-  - ᷑
-  - U
   - B
+  - U
   - F
   - ͤ
-  - k
   - G
   - K
   - ','
   - H
-  - ͦ
-  - ̌
-  - ᷤ
-  - '1'
   - ⟦
   - ⟧
-  - ÷
-  - ꝓ
   - w
+  - ͦ
+  - ꝓ
+  - ̌
+  - '1'
   - '2'
+  - ẜ
   - '-'
+  - ÷
+  - '0'
+  - ̵
+  - '4'
   - '&'
   - '9'
-  - '4'
-  - ̵
   - 
-  - ẜ
-  - '0'
+  - '3'
+  - ˣ
   - ͭ
   - ⁜
-  - ^
+  - /
+  - '6'
   - ᷠ
   - ͬ
-  - '6'
-  - '3'
-  - /
-  - ̧
-  - ᵈ
+  - ^
+  - '7'
   - Y
   - ͨ
   - "'"
   - '5'
+  - ̧
+  - ᵈ
+  - ꝙ
   - Ʒ
   mode: NFD
 description: >-
@@ -154,11 +158,11 @@ transcription-guidelines: >2-
   [Kraken](https://kraken.re))
 url: https://github.com/HTRomance-Project/medieval-french
 volume:
-- count: 80808
+- count: 120310
   metric: characters
-- count: 48
+- count: 65
   metric: files
-- count: 2823
+- count: 4315
   metric: lines
-- count: 269
+- count: 390
   metric: regions
