@@ -31,109 +31,108 @@ characters:
   - e
   - i
   - s
-  - a
   - t
-  - n
+  - a
   - u
+  - n
   - o
   - r
   - l
   - c
-  - m
   - d
+  - m
   - p
   - .
   - ̃
   - f
   - q
   - g
-  - ⁊
   - h
+  - ⁊
   - b
   - z
   - ̾
   - y
   - x
-  - ͥ
-  - Q
-  - S
   - E
+  - S
+  - I
+  - Q
+  - ͥ
   - C
   - ꝑ
-  - I
-  - ͣ
-  - L
   - ꝯ
-  - A
+  - L
   - D
-  - ꝰ
+  - ͣ
+  - A
   - R
-  - M
+  - ꝰ
   - k
+  - M
   - ','
-  - ':'
   - T
   - P
   - N
   - ᷑
-  - O
+  - ':'
   - U
+  - O
   - ͤ
-  - ᷤ
+  - K
   - ⟦
   - ⟧
-  - B
+  - ᷤ
   - F
-  - K
-  - ¶
   - G
+  - B
+  - ¶
   - ͦ
   - ^
   - w
   - H
   - 
-  - ꝓ
-  - ÷
-  - '-'
   - ẜ
-  - ̵
-  - '3'
-  - '9'
+  - ł
+  - ꝓ
+  - '-'
+  - ÷
   - '0'
+  - '3'
   - '2'
   - '1'
+  - ̵
+  - '9'
   - ͭ
-  - '5'
-  - ̌
-  - ł
-  - '4'
-  - '6'
-  - '7'
   - ͬ
+  - '5'
+  - '4'
   - ͫ
-  - '&'
   - ꝙ
   - ꝭ
+  - '7'
+  - '6'
+  - ħ
+  - '&'
+  - ⁜
+  - ᷠ
   - /
   - ˣ
   - ͨ
   - Y
-  - ᷠ
-  - ⁜
+  - ꝵ
   - "'"
   - '8'
-  - ꝵ
   - ͧ
+  - W
+  - đ
   - ᷝ
-  - ħ
   - 
   - '*'
   - ́
-  - ̂
   - X
   - ̧
   - ᵈ
-  - Ʒ
   mode: NFD
 description: >-
   Ground truth of Old French and Middle French manuscripts. Manuscripts vary in themes,
@@ -171,11 +170,11 @@ transcription-guidelines: >2-
   [Kraken](https://kraken.re))
 url: https://github.com/HTRomance-Project/medieval-french
 volume:
-- count: 247397
+- count: 300070
   metric: characters
-- count: 124
+- count: 138
   metric: files
-- count: 8890
+- count: 10385
   metric: lines
-- count: 714
+- count: 789
   metric: regions
