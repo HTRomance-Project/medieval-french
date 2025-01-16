@@ -50,4 +50,4 @@ jobs:
           pip install htrvx
       - name: Run HTRVX
         run: |
-          htrvx --verbose --verbose-level low --group --format alto --check-empty --segmonto --xsd ./data/*/*.xml
+          find . -type f -name "*.xml" ! -name "*.chocomufin.xml" -exec htrvx --verbose --verbose-level low --group --format alto --check-empty --segmonto --xsd  {} \;
